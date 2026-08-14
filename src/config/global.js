@@ -159,14 +159,125 @@ export default {
   },
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Definición',
+      termino: 'Accesorio',
+      significado:
+        'elemento complementario utilizado en la prenda o en el proceso de confección para cumplir funciones de cierre, ajuste, refuerzo, acabado o decoración.',
+    },
+    {
+      termino: 'Aditamento',
+      significado:
+        'dispositivo auxiliar empleado en la máquina de confección para guiar, doblar, ubicar o controlar el material durante una operación específica.',
+    },
+    {
+      termino: 'Aguja industrial',
+      significado:
+        'componente metálico intercambiable que perfora el material textil y conduce el hilo durante la formación de la puntada.',
+    },
+    {
+      termino: 'Aprovechamiento textil',
+      significado:
+        'relación entre el material utilizado y el material disponible durante el trazo, tendido y corte, con el propósito de reducir desperdicios.',
+    },
+    {
+      termino: 'Botonadora',
+      significado:
+        'máquina especializada empleada para fijar botones en prendas mediante ciclos de costura programados o regulados.',
+    },
+    {
+      termino: 'Componente de prenda',
+      significado:
+        'pieza, material o insumo que conforma la estructura externa, interna o funcional de una prenda de vestir.',
+    },
+    {
+      termino: 'Ergonomía',
+      significado:
+        'disciplina aplicada al puesto de trabajo que busca adecuar posturas, mobiliario, movimientos y condiciones operativas a las capacidades del trabajador.',
+    },
+    {
+      termino: 'Ficha técnica',
+      significado:
+        'documento que registra especificaciones de materiales, medidas, maquinaria, operaciones, puntadas, acabados y criterios de calidad de una prenda.',
+    },
+    {
+      termino: 'Fileteadora',
+      significado:
+        'máquina industrial utilizada para sobrehilar, unir o pulir bordes textiles mediante puntadas de seguridad o acabado.',
+    },
+    {
+      termino: 'Gama de mercado',
+      significado:
+        'clasificación de productos de moda según nivel de exclusividad, producción, precio, calidad, circulación comercial y público objetivo.',
+    },
+    {
+      termino: 'Insumo de confección',
+      significado:
+        'material complementario requerido para elaborar una prenda, como hilos, botones, cierres, elásticos, etiquetas, agujas o fornituras.',
+    },
+    {
+      termino: 'Maquinaria de confección industrial',
+      significado:
+        'conjunto de equipos especializados utilizados para ejecutar operaciones de costura, ensamble, acabado, refuerzo y aplicación de detalles.',
+    },
+    {
+      termino: 'Mantenimiento preventivo',
+      significado:
+        'conjunto de acciones programadas de limpieza, lubricación, revisión y ajuste orientadas a conservar el funcionamiento de la maquinaria.',
+    },
+    {
+      termino: 'Textil',
+      significado:
+        'material formado por fibras, hilos o estructuras tejidas, no tejidas o de punto, utilizado como base para la elaboración de prendas.',
+    },
+    {
+      termino: 'Tipología de prenda',
+      significado:
+        'clasificación técnica de las prendas según ubicación corporal, estructura, función, uso y componentes de confección.',
     },
   ],
   referencias: [
     {
-      referencia: '---',
-      link: '---',
+      referencia:
+        'Gutiérrez Rengifo, L. A., Moncayo Velazco, A. X., Tanaka, K., Kimura, F., y Moreno Brand, D. (2011). Manual de patronaje básico e interpretación de diseños. Servicio Nacional de Aprendizaje (SENA); Agencia de Cooperación Internacional del Japón (JICA).',
+      link: '',
+    },
+    {
+      referencia: 'Gilewska, T. (2009). Patronaje: las bases. Gustavo Gili.',
+      link: '',
+    },
+    {
+      referencia:
+        'Kawamura, Y. (2005). Fashion-ology: an introduction to fashion studies. Berg Publishers.',
+      link: '',
+    },
+    {
+      referencia:
+        'Lorenzo, M. R. (2017). Patronaje industrial en textil y piel. Videocinco Editorial.',
+      link: '',
+    },
+    {
+      referencia:
+        'Nakamichi, T. (2012). Pattern magic, vol. 1: la magia del patronaje. Gustavo Gili.',
+      link: '',
+    },
+    {
+      referencia:
+        'Norton, K., y Eston, R. (Eds.). (2019). Kinanthropometry and exercise physiology (4.ª ed.). Routledge.',
+      link: '',
+    },
+    {
+      referencia:
+        'Servicio Nacional de Aprendizaje (SENA). (2011). Manual de patronaje básico e interpretación de diseños. Regional Distrito Capital, Centro de Manufactura en Textiles y Cuero.',
+      link: '',
+    },
+    {
+      referencia:
+        'Smith, A. (2014). El gran libro de la costura (Nueva ed.). Blume.',
+      link: '',
+    },
+    {
+      referencia:
+        'Smith, A. (2023). Corte y confección: prendas de vestir a medida. Penguin Libros / DK.',
+      link: '',
     },
   ],
   creditos: [
@@ -176,11 +287,11 @@ export default {
         {
           nombre: 'Claudia Johanna Gómez Pérez',
           cargo:
-            'Profesional 06. Responsable Ecosistema Virtual de Recursos Educativos Digitales',
+            'Profesional G06. Responsable del Ecosistema de Recursos Educativos Digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: '---',
+          nombre: 'Edison Eduardo Mantilla Cuadros',
           cargo: 'Responsable de línea de producción',
           centro: 'Centro Agroturístico - Regional Santander',
         },
@@ -190,8 +301,13 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: ' ',
-          cargo: ' ',
+          nombre: 'Paola Angélica Castro Salazar',
+          cargo: 'Experta temática',
+          centro: 'Centro Agroturístico - Regional Santander',
+        },
+        {
+          nombre: 'Sandra Paola Morales Páez',
+          cargo: 'Evaluadora instruccional ',
           centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
@@ -200,18 +316,18 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: ' ',
-          cargo: 'Diseñador de contenidos',
+          nombre: 'Julian Fernando Vanegas Vega',
+          cargo: 'Diseñador de contenidos digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: ' ',
-          cargo: 'Desarrollador <i>full stack</i>',
+          nombre: 'Leonardo Castellanos Rodriguez',
+          cargo: 'Desarrollador <i>full-stack</i>',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: ' ',
-          cargo: 'Animador y productor audiovisual',
+          nombre: 'María Alejandra Vera Briceño',
+          cargo: 'Animadora y productora multimedia',
           centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
@@ -220,13 +336,13 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: ' ',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
+          nombre: 'Erika Daniela Manrique Rueda ',
+          cargo: 'Validadora y vinculadora de recursos educativos digitales  ',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: ' ',
-          cargo: 'Evaluador de contenidos inclusivos y accesibles',
+          nombre: 'Sandra Liliana Cristancho Cruz',
+          cargo: 'Evaluadora de contenidos inclusivos y accesibles',
           centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
