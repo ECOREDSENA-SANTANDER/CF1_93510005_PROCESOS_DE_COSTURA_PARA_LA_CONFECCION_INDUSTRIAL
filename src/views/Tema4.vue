@@ -7,11 +7,49 @@
         span 4
       h1 Seguridad y salud en el puesto de trabajo
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </template>
 
 <script>
 export default {
-  name: 'Tema3',
+  name: 'Tema4',
   data: () => ({
     // variables de vue
   }),
