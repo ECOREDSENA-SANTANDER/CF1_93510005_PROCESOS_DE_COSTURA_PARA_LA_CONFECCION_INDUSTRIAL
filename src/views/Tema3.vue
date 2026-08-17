@@ -9,7 +9,7 @@
 
     .row.justify-content-center.mb-3.bg02.g-0(data-aos="zoom-in-left")
       .col-lg-4.p-0
-        img.w-100.h-100.d-block.object-fit-cover(src='@/assets/curso/temas/t3/img01.png', alt='')
+        img.w-100.h-100.d-block.object-fit-cover.d-none.d-lg-block(src='@/assets/curso/temas/t3/img01.png', alt='')
       .col-lg-8
         .row.mb-0.p-5
           .col-lg-2.mb-3.col-4.col-md-3
