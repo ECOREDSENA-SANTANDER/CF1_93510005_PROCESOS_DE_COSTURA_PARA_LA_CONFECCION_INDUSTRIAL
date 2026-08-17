@@ -248,7 +248,7 @@
     SlyderF(columnas="col-lg-6 col-xl-4").mb-5(data-aos="zoom-in-left")
       .tarjeta--boton.color-primario.p-4.h-100
           .row.justify-content-center.mb-3
-            .col-7.col-md-4
+            .col-7.col-md-4.col-lg-5
               figure
                 img(src='@/assets/curso/temas/t4/01.png', alt='')
           h4.text-center Altura de la silla
@@ -256,7 +256,7 @@
 
       .tarjeta--boton.color-primario.p-4.h-100
           .row.justify-content-center.mb-3
-            .col-7.col-md-4
+            .col-7.col-md-4.col-lg-5
               figure
                 img(src='@/assets/curso/temas/t4/02.png', alt='')
           h4.text-center Altura de la máquina
@@ -264,7 +264,7 @@
 
       .tarjeta--boton.color-primario.p-4.h-100
           .row.justify-content-center.mb-3
-            .col-7.col-md-4
+            .col-7.col-md-4.col-lg-5
               figure
                 img(src='@/assets/curso/temas/t4/03.png', alt='')
           h4.text-center Distancia a la máquina
@@ -272,7 +272,7 @@
         
       .tarjeta--boton.color-primario.p-4.h-100
           .row.justify-content-center.mb-3
-            .col-7.col-md-4
+            .col-7.col-md-4.col-lg-5
               figure
                 img(src='@/assets/curso/temas/t4/04.png', alt='')
           h4.text-center Posición de la cabeza
@@ -280,7 +280,7 @@
       
       .tarjeta--boton.color-primario.p-4.h-100
           .row.justify-content-center.mb-3
-            .col-7.col-md-4
+            .col-7.col-md-4.col-lg-5
               figure
                 img(src='@/assets/curso/temas/t4/05.png', alt='')
           h4.text-center Respaldo de la silla
