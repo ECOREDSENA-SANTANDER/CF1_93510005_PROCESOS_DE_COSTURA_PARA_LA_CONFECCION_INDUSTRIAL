@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="602.289" height="64" viewBox="0 0 602.289 64">
+  <g id="Grupo_1206572" data-name="Grupo 1206572" transform="translate(-395.711 -20693)">
+    <text id="A_provechamiento_:_" data-name="A provechamiento (%) : " transform="translate(395.711 20716)" fill="#262626" font-size="16" font-family="Roboto-Regular, Roboto" letter-spacing="0.003em"><tspan x="0" y="15">A provechamiento (%) : </tspan></text>
+    <text id="X_100" data-name="X 100" transform="translate(914 20716)" fill="#262626" font-size="16" font-family="Roboto-Regular, Roboto" letter-spacing="0.003em"><tspan x="-20.568" y="15">X 100</tspan></text>
+    <text id="_" data-name="(" transform="translate(583 20696)" fill="#262626" font-size="50" font-family="Roboto-Thin, Roboto" font-weight="200" letter-spacing="0.003em"><tspan x="0" y="48">(</tspan></text>
+    <text id="_2" data-name="(" transform="translate(913 20754) rotate(180)" fill="#262626" font-size="50" font-family="Roboto-Thin, Roboto" font-weight="200" letter-spacing="0.003em"><tspan x="0" y="48">(</tspan></text>
+    <g id="Grupo_1206571" data-name="Grupo 1206571" transform="translate(0 -7.9)">
+      <text id="Área_útil_utilizada_por_los_patrones" data-name="Área útil utilizada por los patrones" transform="translate(620.711 20711.9)" fill="#262626" font-size="16" font-family="Roboto-Regular, Roboto" letter-spacing="0.003em"><tspan x="0" y="15">Área útil utilizada por los patrones</tspan></text>
+      <text id="Área_total_del_metro_de_tela" data-name="Área total del metro de tela" transform="translate(620.711 20739.029)" fill="#262626" font-size="16" font-family="Roboto-Regular, Roboto" letter-spacing="0.003em"><tspan x="-96.606" y="15">Área total del metro de tela</tspan></text>
+      <line id="Línea_4017" data-name="Línea 4017" x2="292" transform="translate(602.211 20734)" fill="none" stroke="#c5c6cb" stroke-width="1"/>
+    </g>
+  </g>
+</svg>
